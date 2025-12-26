@@ -1,4 +1,4 @@
-# Todo Console App
+# In-Memory Python CLI Todo Application
 
 A feature-rich command-line interface (CLI) todo application built with Python, Typer, and Rich. The app provides an interactive menu system with persistent storage for managing your tasks efficiently.
 
