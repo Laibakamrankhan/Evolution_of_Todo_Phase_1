@@ -14,8 +14,8 @@ A feature-rich command-line interface (CLI) todo application built with Python, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Laibakamrankhan/Evolution_of_Todo_Phase_1.git
-   cd Evolution_of_Todo_Phase_1
+  git clone https://github.com/Laibakamrankhan/In-Memory-Python-CLI-Todo-Application.git
+cd In-Memory-Python-CLI-Todo-Application
    ```
 
 2. Install the package in development mode:
